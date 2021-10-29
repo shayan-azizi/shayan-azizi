@@ -1,15 +1,24 @@
-- 👋 Hi, I’m Shayan Azizi and my nickname is LIPBIR
-- I'm from iran and i currently live in Tehran
-- 👀 I’m interested in python and HTML-CSS
-- 🌱 I’m currently learning python and HTML-CSS too :))
-- 💞️ I hope to collaborate with Microsoft!
-- 📫 How to reach me:
-- Telegram: @lipbir
-- Discord: LIPBIR#9297
-- Email: shayanazizi1386@gmail.com
-<hr>
+# Hi I'm Shayan Azizi!
+I'm from iran and i currently live in Tehran!
+<br>
+My Nickname is LIPBIR.
+<br>
+I am currently a student at Allameh Helli1 High School in Tehran.
+***
+## Currently working on: 
+- Python GUI Projects.
+- 2D Games with unity game engine
+- HTML & CSS and front-end developing
+## You Can Reach me with: 
+- My Website:
+- My Email: shayanazizi1386@gmail.com
+- My Telegram: @lipbir
+- My Twitter: ShayanAzizi12
+- My Discord: LIPBIR#9297
+- My Facebook: Shayan Azizi
+- My Linkedin: Shayan Azizi
 
-
+### ready to cooperate!
 
 
 <!---
