@@ -6,8 +6,8 @@ My Nickname is LIPBIR.
 I am currently a student at Allameh Helli1 High School in Tehran.
 ***
 ## Currently working on: 
-- Python GUI Projects.
-- 2D Games with unity game engine
+- ShayanOS Kernel written in C# and Asembly
+- ShayanScript written in python
 - HTML & CSS and front-end developing
 ## You Can Reach me with: 
 - My Website: https://shayan-azizi.github.io
