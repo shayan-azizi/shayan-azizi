@@ -1,8 +1,6 @@
 # Hi I'm Shayan Azizi!
 I'm from iran and i currently live in Tehran!
 <br>
-My Nickname is LIPBIR.
-<br>
 I am currently a student at Allameh Helli1 High School in Tehran.
 ***
 ## Currently working on: 
