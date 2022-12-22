@@ -4,9 +4,8 @@ I'm from iran and i currently live in Tehran!
 I am currently a student at Allameh Helli1 High School in Tehran.
 ***
 ## Currently working on: 
-- ShayanOS Kernel written in C# and Asembly
-- ShayanScript written in python
-- HTML & CSS and front-end developing
+- TV Show Downloader
+- Solving Quera problems
 ## You Can Reach me with: 
 - My Website: https://shayan-azizi.github.io
 - My Email: shayanazizi1386@gmail.com
