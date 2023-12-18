@@ -7,13 +7,13 @@ I am currently a student at Allameh Helli1 High School in Tehran.
 - TV Show Downloader
 - Solving Quera problems
 ## You Can Reach me with: 
-- My Website: https://shayan-azizi.github.io
-- My Email: shayanazizi1386@gmail.com
-- My Telegram: @lipbir
-- My Twitter: ShayanAzizi12
-- My Discord: LIPBIR#9297
-- My Facebook: Shayan Azizi
-- My Linkedin: Shayan Azizi
+- Webpage: https://shayan-azizi.github.io
+- Email: shayanazizi1386@gmail.com
+- Telegram: @lipbir
+- Twitter: lipbir
+- Discord: LIPBIR#9297
+- Facebook: Shayan Azizi
+- Linkedin: Shayan Azizi
 
 ### ready to cooperate!
 
