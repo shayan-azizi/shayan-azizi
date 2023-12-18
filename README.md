@@ -1,7 +1,7 @@
 # Hi I'm Shayan Azizi!
 I'm from iran and i currently live in Tehran!
 <br>
-I am currently a student at Allameh Helli1 High School in Tehran.
+I'm currently a student Helli1 Tehran.
 ***
 ## Currently working on: 
 - TV Show Downloader
